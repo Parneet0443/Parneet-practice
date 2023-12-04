@@ -1,2 +1,3 @@
-# Parneet-practice
+cd # Parneet-practice
 My first git repository
+hi
